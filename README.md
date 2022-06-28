@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arman 
 
-<img src = "https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+Arman+👋; UT+Austin+Grad,+Software+Engineer;and+Open+Source+Contributor!!+😄&size=30&center=true&width=950"/>
+<img src = "https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+Vaibhav+👋;An+IT+undergrad,+Web+Developer;and+Open+Source+Contributor!!+😄&size=30&center=true&width=950"/>
 
 <!--
 **ArmanKhondker/armankhondker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
