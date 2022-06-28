@@ -9,5 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/armankhondker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
+<h3></h3>
 
-![](https://komarev.com/ghpvc/?username=ArmanKhondker) - Since Mar. 23rd 2021
+![](https://komarev.com/ghpvc/?username=ArmanKhondker)
