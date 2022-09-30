@@ -6,7 +6,7 @@
 **ArmanKhondker/armankhondker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as a Software Engineer @ Capital One
+- 🔭 I’m currently working as a Software Engineer @ TikTok
 - 📫 How to reach me: armankhondker@gmail.com
 
 <h3 align="left">Connect with me:</h3>
