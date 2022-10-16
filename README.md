@@ -4,10 +4,7 @@
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/armankhondker/)
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/armankhondker)
 
-
-<!--
-**ArmanKhondker/armankhondker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Hi there 👋, I'm Arman
 
 - 🏢 Software Engineer [@TikTok](https://www.tiktok.com/) in Seattle, WA 
 - 📫 How to reach me: armankhondker@gmail.com
