@@ -1,5 +1,8 @@
 <img src = "https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+Arman+👋;UT+Austin+Grad,+Software+Engineer;and+Open+Source+Contributor!!+😄&size=30&center=true&width=950"/>
 
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/ArmanKhondker)
+
+
 ### Hi there 👋, I'm Arman 
 
 <!--
