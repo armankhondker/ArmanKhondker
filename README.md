@@ -13,7 +13,7 @@
 **ArmanKhondker/armankhondker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🏢 Software Engineer [@TikTok](https://www.tiktok.com/)in Seattle, WA 
+- 🏢 Software Engineer [@TikTok](https://www.tiktok.com/) in Seattle, WA 
 - 📫 How to reach me: armankhondker@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=ArmanKhondker)
