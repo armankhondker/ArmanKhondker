@@ -5,9 +5,6 @@
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/armankhondker)
 
 
-
-### Hi there 👋, I'm Arman 
-
 <!--
 **ArmanKhondker/armankhondker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
