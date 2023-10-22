@@ -3,7 +3,7 @@
 ![youtube views](https://img.shields.io/youtube/channel/views/UCDlqbnftd2Z_Ysh8itMvhwg)
 
 
-### Hi there 👋, I'm Arman
+### hi 👋, i'm arman!
 
 - 🏢 Software Engineer [@TikTok](https://www.tiktok.com/) currently in Seattle, WA
 - 📫 How to reach me: armankhondker@gmail.com
