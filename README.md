@@ -5,7 +5,7 @@
 
 ### hi 👋, i'm arman!
 
-- 🏢 Software Engineer [@TikTok](https://www.tiktok.com/) currently in Seattle, WA
-- 📫 How to reach me: armankhondker@gmail.com
+- 🏢 software engineer [@tiktok](https://www.tiktok.com/) currently in seattle, wa
+- 📫 how to reach me: armankhondker@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=ArmanKhondker)
