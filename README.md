@@ -4,9 +4,9 @@
 ![youtube views](https://img.shields.io/youtube/channel/views/UCDlqbnftd2Z_Ysh8itMvhwg)
 
 
-### hi 👋, i'm arman!
+### Hi 👋, I'm Arman!
 
-- 🏢 software engineer [@tiktok](https://www.tiktok.com/) currently in seattle, wa
-- 📫 how to reach me: hi.armankhondker@gmail.com
+- 🏢 Software Engineer [@TikTok](https://www.tiktok.com/) based in Seattle, WA
+- 📫 How to reach me: hi.armankhondker@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=ArmanKhondker)
