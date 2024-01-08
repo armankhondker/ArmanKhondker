@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Arman!
 
-- Software Engineer [@TikTok](https://www.tiktok.com/) based in Seattle, WA
+- Software Engineer [@TikTok](https://www.tiktok.com/) living in Seattle, WA.
 - How to reach me: hi.armankhondker@gmail.com
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/armankhondker)
