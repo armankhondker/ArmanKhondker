@@ -4,5 +4,4 @@
 
 ### Hi 👋, I'm Arman!
 
-- Software Engineer @TikTok based in Seattle, WA.
-- How to reach me: hi.armankhondker@gmail.com
+- Software Engineer at TikTok based in Seattle, WA.
