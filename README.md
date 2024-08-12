@@ -3,4 +3,4 @@
 ### Hi 👋, I'm Arman!
 
 - Backend Software Engineer at TikTok based in Seattle, WA.
-- 4+ years of experience, currently working on TikTok Shop.
+- Working on TikTok Shop, interested in Distrbuted Systems and AI/ML. 
