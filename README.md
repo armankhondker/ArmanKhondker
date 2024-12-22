@@ -3,5 +3,4 @@
 ### Hi 👋, I'm Arman!
 
 - Backend Software Engineer at Microsoft AI based in Seattle, WA.
-- Interested in AI/ML and Distributed systems. 
 - Previously on TikTok Shop.
